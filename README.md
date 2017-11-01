@@ -1,6 +1,6 @@
 # Desafio Técnico: Gupy
 
-Repositório do Desafio da empresa: Gupy. 
+Repositório do Desafio Técnico da empresa: Gupy. 
 
 ## Características do Desafio:
 
