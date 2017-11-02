@@ -17,12 +17,12 @@ Repositório do Desafio Técnico da empresa: Gupy.
 ## Recursos utilizados no desenvolvimento:
 
 - Node.Js;
-- Express.Js 
-- MongoDb/ SqlLite
+- React/Redux;
+- Express.Js;
+- MongoDb/ SqlLite;
 - Mongoose
-- JSON data (para retornar os dados via a api do SWAPI);
+- JSON data;
 - PostMan (testar a API criada);
-- mLab (para fins de teste no cloud);
 - Visual Studio Code
 
 **documentação em desenvolvimento**
