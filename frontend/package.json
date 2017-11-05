@@ -4,7 +4,8 @@
   "description": "Desenvolvimento de uma pequena aplicação para o desafio técnico da empresa Gupy, feito em Node.Js & React.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack-dev-server --progress --colors --inline --hot",
+    "production": "webpack --progress -p"
   },
   "author": "Glaucia Lemos",
   "license": "MIT",
