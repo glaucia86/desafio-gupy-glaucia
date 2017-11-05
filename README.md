@@ -17,10 +17,11 @@ Repositório do Desafio Técnico da empresa: Gupy.
 ## Recursos utilizados no desenvolvimento:
 
 - Node.Js;
-- React/Redux;
+- React;
+- Redux;
 - Express.Js;
-- MongoDb/ SqlLite;
-- Mongoose
+- MongoDb;
+- Mongoose;
 - JSON data;
 - PostMan (testar a API criada);
 - Visual Studio Code
