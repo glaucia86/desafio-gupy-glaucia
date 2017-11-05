@@ -5,4 +5,5 @@
  * Author: Glaucia Lemos
  */
 
-require('./config/server')
+require('./config/server');
+require('./config/database');
