@@ -18,7 +18,7 @@ const Schema = mongoose.Schema;
  * -> Opening_Crawl: string
  * -> Director: String
  * -> Producer: String
- * -> Realease_Date: Date
+ * -> Release_Date: Date
  * -> Created_At: Date (para fins de registro no banco)
  * 
  */
@@ -29,7 +29,7 @@ const FilmSchema = new Schema({
     opening_crawl: {type: String},
     director: { type: String },
     producer: { type: String },
-    realease_date: { type: Date },
+    release_date: { type: Date },
     done: { type: Boolean, required: true, default: false },
     created_at: { type: Date, default: Date.now }
 });
