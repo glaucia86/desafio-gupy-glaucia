@@ -1,5 +1,5 @@
 /**
- * Arquivo: src/menu.jsx
+ * Arquivo: menu.jsx
  * Data: 05/11/2017
  * Descrição: Arquivo responsável pelos Componentes relacionado ao Menu.
  * Author: Glaucia Lemos
