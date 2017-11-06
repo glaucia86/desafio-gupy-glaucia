@@ -6,13 +6,14 @@
  */
 
 import React, { Component } from "react";
+import PageHeader from '../template/pageHeader'
 
-export default class Film extends Component {
-  render() {
-    return (
-      <div>
-        <h1>CRUD - Gupy</h1>
-      </div>
-    )
-  }
+export default class Todo extends Component {
+    render() {
+        return(
+            <div>
+                <PageHeader name="Filmes" small="Cadastro"></PageHeader>
+            </div>
+        )
+    }
 }
