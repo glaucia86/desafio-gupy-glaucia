@@ -7,12 +7,16 @@
 
 import React, { Component } from "react";
 import PageHeader from '../template/pageHeader'
+import FilmForm from './filmForm'
+import FilmList from './filmList'
 
 export default class Todo extends Component {
     render() {
         return(
             <div>
                 <PageHeader name="Filmes" small="Cadastro"></PageHeader>
+                <FilmForm />
+                <FilmList />
             </div>
         )
     }
